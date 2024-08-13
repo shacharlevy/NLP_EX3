@@ -1,7 +1,9 @@
 # NLP_EX3
 
 Natural Language Processing – Assignment #3
-Project Description
+
+
+Project Description:
 This assignment focuses on syntactic parsing and linguistic investigation, specifically examining the usage and omission of the word "that" as a subordinate conjunction in informal writing.
 
 
